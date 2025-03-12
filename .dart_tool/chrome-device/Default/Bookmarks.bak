@@ -1,0 +1,416 @@
+{
+   "checksum": "0effa24203ea1aa54cf94c33ecfa3485",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13385828047569176",
+            "date_last_used": "0",
+            "guid": "3c3f3375-0bcd-4dc4-adf0-495566e38cb9",
+            "id": "38",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13385828047568971",
+            "date_last_used": "0",
+            "guid": "cd53a986-00d5-4b24-942a-ccfd53041067",
+            "id": "37",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         }, {
+            "date_added": "13385828047568505",
+            "date_last_used": "0",
+            "guid": "1bd292db-c192-4a7a-b895-ad326e0a6e1f",
+            "id": "36",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=247829",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "350fd9fb-0f32-4fae-ad50-cb2670d9eb22",
+            "id": "17",
+            "name": "Bookmarks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://bookmarks/",
+            "visit_count": 0
+         }, {
+            "date_added": "13313948111568042",
+            "date_last_used": "13314650708165610",
+            "guid": "02f9b319-283f-42bc-9d74-e36fc1cee9b1",
+            "id": "18",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13337361255652638",
+            "date_last_used": "13384884949142804",
+            "guid": "52c9a344-7069-4d44-a4e3-5ef87962c6ee",
+            "id": "19",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 96
+         }, {
+            "date_added": "13369502827552694",
+            "date_last_used": "0",
+            "guid": "b8ebfd4b-70f4-40e4-820c-a752a5f7c568",
+            "id": "20",
+            "name": "Top 50 Java Programming Interview Questions | DigitalOcean",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.digitalocean.com/community/tutorials/java-programming-interview-questions",
+            "visit_count": 0
+         }, {
+            "date_added": "13369581567351619",
+            "date_last_used": "0",
+            "guid": "5de3804f-6a83-49b7-9af0-28a098233236",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Electrical Technology | Circuit Analysis | Free Online Course | Alison",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://alison.com/course/advanced-diploma-in-basics-of-electrical-technology-and-circuit-analysis",
+            "visit_count": 1
+         }, {
+            "date_added": "13370171676529430",
+            "date_last_used": "0",
+            "guid": "7fa6e712-d780-4e2a-b23c-2c490b7d3035",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Core Java Interview Questions and Answers (2024) - InterviewBit",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.interviewbit.com/java-interview-questions/",
+            "visit_count": 1
+         }, {
+            "date_added": "13371028188041015",
+            "date_last_used": "0",
+            "guid": "5f0b6448-31d3-4c4f-be5f-20f68a683111",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Basic Electronics Interview Questions and Answers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.mytectra.com/interview-question/basic-electronics-interview-questions-and-answers",
+            "visit_count": 1
+         }, {
+            "date_added": "13371028308975794",
+            "date_last_used": "0",
+            "guid": "bc6371f6-ed05-4b3a-aea2-731546d08594",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "30 Electronics Engineer Interview Questions and Answers - InterviewPrep",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://interviewprep.org/electronics-engineer-interview-questions/",
+            "visit_count": 1
+         }, {
+            "date_added": "13379272984742018",
+            "date_last_used": "0",
+            "guid": "fa919938-3719-4df8-9c1d-aa4922ea69f4",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mithilesh resume ATS friend - Online LaTeX Editor Overleaf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.overleaf.com/project/6766ea1022b791663c5864e0",
+            "visit_count": 1
+         }, {
+            "date_added": "13379277790639646",
+            "date_last_used": "0",
+            "guid": "4e68ce9d-c7eb-4537-b421-860dbdf85250",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Top C Programming Interview Questions (2025) - InterviewBit",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.interviewbit.com/c-interview-questions/",
+            "visit_count": 1
+         }, {
+            "date_added": "13381161214662591",
+            "date_last_used": "0",
+            "guid": "d66902e7-99aa-46dd-855a-4205cc4fced1",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Java OOPs Concepts - javatpoint",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.javatpoint.com/java-oops-concepts",
+            "visit_count": 1
+         }, {
+            "date_added": "13381419421009633",
+            "date_last_used": "0",
+            "guid": "1bd364d1-f6f3-4700-98eb-bfa78e6171c5",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "aktupapers.in | Off Campus Jobs, Fresher Jobs, Fresher Opening, Remote Jobs, Work From Home Jobs, Part Time Jobs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aktupapers.in/",
+            "visit_count": 1
+         }, {
+            "date_added": "13381934533134092",
+            "date_last_used": "13381934548571079",
+            "guid": "e929c95a-0e81-426f-af20-a3fbb8888f75",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chatgpt.com/?temporary-chat=true",
+            "visit_count": 2
+         }, {
+            "date_added": "13382983932902778",
+            "date_last_used": "0",
+            "guid": "36359ed0-4091-4a3a-9741-9fb9fc611a55",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Latest Off Campus Drive 2025 Batch/ Internship/ Fresher Jobs In India",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.enggwave.com/category/2025-batch-jobs?utm_source=chatgpt.com",
+            "visit_count": 1
+         }, {
+            "date_added": "13382988341079122",
+            "date_last_used": "0",
+            "guid": "5877cc39-473f-4a90-8bec-1adb714bc346",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Latest Off Campus Hiring for Freshers | PrepInsta",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://prepinsta.com/off-campus-hiring/?utm_source=chatgpt.com",
+            "visit_count": 1
+         }, {
+            "date_added": "13383331269479818",
+            "date_last_used": "0",
+            "guid": "3856224b-1193-4a0d-a0c0-ec04f5d32e8e",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Python Programming — The Print() Function | Dataquest",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.dataquest.io/c/114/m/605/python-programming/3/the-print-function?path=1&slug=data-analyst&version=2.3",
+            "visit_count": 1
+         }, {
+            "date_added": "13385647151067006",
+            "date_last_used": "0",
+            "guid": "65ef6587-f3aa-4322-9713-7272d3013bda",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "FlutLab.io - Flutter IDE online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://flutlab.io/editor/7abc548b-0422-4450-8f57-148fcd012bb1",
+            "visit_count": 1
+         }, {
+            "date_added": "13385827054283355",
+            "date_last_used": "0",
+            "guid": "83511d76-2eaa-48ed-8aef-6a1b3233a5c2",
+            "id": "8",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13385827054283156",
+            "date_last_used": "0",
+            "guid": "dccbc9a9-a913-4569-88b7-448ca8643388",
+            "id": "7",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         }, {
+            "date_added": "13385827054282691",
+            "date_last_used": "0",
+            "guid": "5904ac0f-de6d-4a69-9795-efe97e1402ba",
+            "id": "6",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=247829",
+            "visit_count": 0
+         } ],
+         "date_added": "13385827053690839",
+         "date_last_used": "0",
+         "date_modified": "13385828047569176",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "0",
+                  "date_last_used": "0",
+                  "guid": "6ff8bef6-8fe6-4539-b186-e2cd1f02c77f",
+                  "id": "12",
+                  "name": "Rediff.com: Exam Results India",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "http://m.rediff.com/exam_results",
+                  "visit_count": 0
+               } ],
+               "date_added": "13313920371901888",
+               "date_last_used": "0",
+               "date_modified": "13313920371901888",
+               "guid": "43505542-5285-4d82-b364-947ba0acb2ca",
+               "id": "11",
+               "name": "http://m.rediff.com/exam_results",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13313920371901752",
+            "date_last_used": "0",
+            "date_modified": "13313920371901752",
+            "guid": "b92256b5-1134-44a4-948c-2210e4435d55",
+            "id": "10",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "11fcff24-148d-48bd-95d7-6a360dac089c",
+               "id": "14",
+               "name": "Lokmat Aurangabad Main Newspaper | Aurangabad Main : Marathi Epaper | Aurangabad Main : Online Marathi Epaper |Aurangabad Main Daily Marathi Epaper | लोकमत वृत्तपत्रे",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://epaperlokmat.in/main-editions/Aurangabad%20Main%20/2020-03-01/1",
+               "visit_count": 0
+            } ],
+            "date_added": "13313920371901981",
+            "date_last_used": "0",
+            "date_modified": "13313920371901981",
+            "guid": "d26fb58a-f8a6-4d22-a3a4-4d996ab8621b",
+            "id": "13",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13077177561529000",
+               "date_last_used": "0",
+               "guid": "fdc46005-c191-4a11-abd1-27c4dad9daa3",
+               "id": "16",
+               "name": "Rediff.com: Exam Results India",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://m.rediff.com/exam_results",
+               "visit_count": 0
+            } ],
+            "date_added": "13321638150427513",
+            "date_last_used": "0",
+            "date_modified": "13321638150427513",
+            "guid": "7aa9ff59-d8b1-4f0e-8567-c73efcc82736",
+            "id": "15",
+            "name": "http://m.rediff.com/exam_results",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13385827053690844",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13227729131707008",
+            "date_last_used": "0",
+            "guid": "c465bf60-0df9-4a26-aa73-10c40f57d6e6",
+            "id": "9",
+            "name": "Lokmat Aurangabad Main Newspaper | Aurangabad Main : Marathi Epaper | Aurangabad Main : Online Marathi Epaper |Aurangabad Main Daily Marathi Epaper | लोकमत वृत्तपत्रे",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://epaperlokmat.in/main-editions/Aurangabad%20Main%20/2020-03-01/1",
+            "visit_count": 0
+         } ],
+         "date_added": "13385827053690846",
+         "date_last_used": "0",
+         "date_modified": "13227729131707008",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCCtYwnCVAQAAEgAqGHBtNlpSYURkYnl0cVpsdFpTTnpZUlE9PUgDoAYMEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDMzN2Q5Y2NkLTU0MDYtNTllNi1iMTQ0LWEzMTMyZjEyZDJiMRgAIAAoADCO/rWVyzA4nIa2lcswQJyGtpXLMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKtAQgNEqgBChwxbmFESzVaRU9ENmMzTTQwcW9RVFNLb0RQd009EiRkMjZmYjU4YS1mOGE2LTRkMjItYTNhNC00ZDk5NmFiODYyMWIYACAAKAAwptOglsswOK/UoJbLMECv1KCWyzBKHHhBWm5yYUdUUURUd25zM2t4OEJtSmsxRzNrTT1aHyIduzB4b1hMSW9vQ1dRR1lhWlYxSm9xeVhLYzJNZz1lAAAAAMI+AmAAEqwBCAoSpwEKHHJONFgvcXIzL2pXSTRvOTMzb0xFWVJGUGI3ST0SJGI5MjI1NmI1LTExMzQtNDRhNC05NDhjLTIyMTBlNDQzNWQ1NRgAIAAoADCp06CWyzA4jdWglsswQI3VoJbLMEocNjdFWXcySjkreEQ1SUwva2phaGgrdWlIQUJ3PVoeIhx2QUNUSmN1RE14bHpZTlFJRm9odWhoTnc5ZWc9ZQAAAADCPgJgABKtAQgWEqgBChxjd2JwcEJhVjlWOFRmZmhPTFJEMXd0d1puN3c9EiQ3ZmE2ZTcxMi1kNzgwLTRlMmEtYjIzYy0yYzQ5MGI3ZDMwMzUYACACKAIw376GhtcyOKb7+9ycMkCbkIWG1zJKHFc0K0JPYTlsL1lCY1pTbjhlNGVsWGE4ZXkzOD1aHyId/lpoOFVsNUZyZVJwd2ZDUTlKbGVscHVidGFvOD1l/YsbsMI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDUzNjUzNGZjLWFmMDktNWJlOS1iMDI5LTk4ZjQ2NzkwODI5ZhgAIAAoADCI/rWVyzA4woS2lcswQMKEtpXLMEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ2OTRiOWQ1Yi1hZDVhLTUxOTQtYWQ4Yi0zYjY1NTVhMTQ5NTQYACAAKAAwif61lcswOOGEtpXLMEDhhLaVyzBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEIFxKoAQocQ082Q1BmS3lQSXp0OCtlU28vaEdLN0wrcTNzPRIkNWYwYjY0NDgtMzFkMy00YzRmLWJlNWYtMjBmNjhhNjgzMTExGAAgAigCMO2+hobXMjimo7H1nzJAnJCFhtcyShxPVk5GOGpmczlyeGZ3bWFpNzBoZlg3RzdGblE9Wh8iHf9jeGE1Ukc2Nzl4L2JXVlNKSE1haW5MNEpZUlE9ZclpAF/CPgJgBRKsAQgLEqcBChw3RmxaMklSa09kZ0hPWVJkOGkrYzkzeHpNNkU9EiQ0MzUwNTU0Mi01Mjg1LTRkODItYjM2NC05NDdiYTBhY2IyY2EYACAAKAAwqtOglsswOKzVoJbLMECs1aCWyzBKHE5KQ3FBRkcwNzJzQURacDZxQ3FUYWIzYmxyQT1aHiIcMldobmd0UFpIK1NvbmUzNXdoMUE4TkhCSFR3PWUAAAAAwj4CYAASrAEICRKnAQocWmJrQkJOQktiY1dVdm1OZGpiN3VTTlZjbWIwPRIkYzQ2NWJmNjAtMGRmOS00YTI2LWFhNzMtMTBjNDBmNTdkNmU2GAAgACgAMO+utfbnMDjdsbX25zBA3bG19ucwShxNUVlrc3V0QkFCYnVZYjhiMGRMWHo4NStUOGs9Wh4iHDYvdGM3WkpPZmZ4SnAwazFoQkRteUJSSkx4ND1lAAAAAMI+AmAFEqwBCAwSpwEKHGtoYkxWclIrQWxoaXhOU0dKalN2NXlCbENmUT0SJDZmZjhiZWY2LThmZTYtNDUzOS1iMTg2LWUyY2QxZjAyYzc3ZhgAIAAoADDxrrX25zA429WglsswQNvVoJbLMEocQXpQS3AvTEozZkw5V0ljVmMvbG92VHNXOXdzPVoeIhxvWW5pbS9hVjVlbzF4TE81WU9BK1U4YXAzVjA9ZQAAAADCPgJgBRKtAQgUEqgBChxkRkR6L25ZMHBVMWc1Ukkwc1lxaWpHc28rTWM9EiRiOGViZmQ0Yi03MGY0LTQwZTQtODIwYy1hNzUyYTVmN2M1NjgYACACKAIw4b6GhtcyOIHQhJ6aMkCYkIWG1zJKHFVCQ1N3YktHenpLVXpQU0RPQ0w5UEhCNUh2OD1aHyId+k0ycm44cWNrN2Z6WktoM0plajJMSWVUbWJtbz1lIgoTG8I+AmAFEq8BCCASqgEKHDJaL1lJY0RBdDMyZTJYOTZObDFTNW41RTBWRT0SJDM4NTYyMjRiLTExOTMtNGEwZC1hMGMwLWVjMDRmNWQzMmU4ZRgAIAIoAjDgvoaG1zI45tP5380yQKiQhYbXMkocZHlWR1lWSENzWERxM0cxVTdBZjZJRHVtNlpNPVohIh////s1UndNQlJjZmZsTWd6dkpHMFBqS2tGWkQ4dTg9ZQ+A3WfCPgJgBRKuAQgaEqkBChx1OXdaMEpZSFJGUjhnc2ZmOW0wajR5em8zZlk9EiQ0ZTY4Y2U5ZC1jN2ViLTQ1MzctYjQyMS04NjBkYmRmODUyNTAYACACKAIw6b6GhtcyOID+jNO+MkCgkIWG1zJKHHRYWnZFRzVZZ1VCbG1tZFdmY2wxNlVxM1Y0WT1aICIe//9OdG1aaWRmWW1UcXlvL3lhZ1RRbFh2cDJ2ZGs9Zf2LG7DCPgJgBRKsAQgOEqcBChx0NFJwYVA2ZnBXY0ZxVFY2bkphaVoxMWdnSWM9EiQxMWZjZmYyNC0xNDhkLTQ4YmQtOTVkNy02YTM2MGRhYzA4OWMYACAAKAAw8K619ucwOM/UoJbLMEDP1KCWyzBKHDhjUTlEWGdCU2w4cy9odUNOQTQ4b3J4SWsxUT1aHiIcZmxuQ0RmRTJhUG1xWndFQ3Zna3VHUEZ5WGtzPWUAAAAAwj4CYAUSrAEIEBKnAQocbkF2Z29EbUw1QXJNbzM5eDM3d3NSRGFFYVJnPRIkZmRjNDYwMDUtYzE5MS00YTExLWFiZDEtMjdjNGRhZDlkYWEzGAAgACgAMO6utfbnMDiAsbX25zBAgLG19ucwShxSOEg2a2pacXdlQTN4QzN5dlVnRXBXemU1QVk9Wh4iHGFXV1E4RDlYb2RDZFRwS3d1U0JwYjZyWGJMVT1lAAAAAMI+AmAFEq0BCA8SqAEKHC9aUWRnQ0xlWU55NzZEQzJnNjhnY3d4dFQwRT0SJDdhYTlmZjU5LWQ4YjEtNGYwZS04NTY3LWM3M2VmY2M4MjczNhgAIAAoADDtrrX25zA4g7C19ucwQIOwtfbnMEocZWZ3V3A3LzlVVitkTm1vdHEyOER4bEFFNmIwPVofIh3dWEU4cTA3NE1VMTR4M3VxVk1GYlBvZmNoUU9BPWUAAAAAwj4CYAASrgEIGBKpAQocMCtBTXU1aThmSzRabVBmZ2lDVTY4Q2puaVBBPRIkYmM2MzcxZjYtZWQwNS00YjNhLWFlYTItNzMxNTQ2ZDA4NTk0GAAgAigCMOq+hobXMjj00Lj1nzJAnZCFhtcyShxsZWJKUnFMMVF0NXY3aUIwa2htc2JHQmdQUlE9WiAiHv+xR0tMY2VjNitPd0NjWmN4Wll5QVpyMmR0M0dvPWXiqWX2wj4CYAUSrgEIGxKpAQocbDk2K1dhSVFJVHMzYStmSUFxRzYrM1J5aEYwPRIkZDY2OTAyZTctOTlhYS00NmRkLTg1NWEtNDIwNWNjNGZjZWQxGAAgAigCMOK+hobXMjjihZjVxTJAoZCFhtcyShx2Vk45VDRzWnpXNVhOODRNQkx1Qm9sckdUL2c9WiAiHv//aEhEb2k0bmlMWG1NOEowYkJSWEYzcmpkUG5zPWVjj647wj4CYAUSrAEIERKnAQocUm83ZGNjUlR0dTJsUXhCaWpXSW9MZHZBczhnPRIkMzUwZmQ5ZmItMGYzMi00ZmFlLWFkNTAtY2IyNjcwZDllYjIyGAAgACgAMKjToJbLMDj+1KCWyzBA/tSglsswShwwMnBvbGFnSzhQTUQ0eHZrYUJYMEo0TGloQXc9Wh4iHE9oT0F4QTNlVEEyVGpzQWZwdnZCaEVYK3ptQT1lAAAAAMI+AmAFEq0BCBMSqAEKHHlYdjB6L2ZJS0R2MXJvSktwbzRVdXpRYnQ3dz0SJDUyYzlhMzQ0LTcwNjktNGQ0NC1hNGUzLTVlZjg3OTYyYzZlZRgAIAIoAjDovoaG1zI4sOTH96YxQJeQhYbXMkocOHYrY1pCYS8xMXRmK3ArMU96OXJkREtDVDlJPVofIh30Vks4ZmVmWTdmb2REenZVcWY5NWxEVERqRFBjPWWbPYW2wj4CYAUSrQEIFRKoAQocNUtCbCthR1gvcncyaEhnOUxVamw0RWZtNTk4PRIkNWRlMzgwNGYtNmE4My00OWI3LTlhZjAtMjhhMDk4MjMzMjM2GAAgAigCMOu+hobXMjjivcrDmjJAmZCFhtcyShxTU0E5bzkzZlJHaGdDclA3cTdmMFlXU0gyL3c9Wh8iHf1NU0U0OUZIQ1A3dzZyTm9uN1pBeElqT2xMQ1k9ZSZY4IXCPgJgBRKtAQgSEqgBChw3dHlzdzZVd3F5VjN4R0YyR2ovY0hIZmE4ZG89EiQwMmY5YjMxOS0yODNmLTQyYmMtOWQ3NC1lMzZmYzFjZWU5YjEYACACKAIw5b6GhtcyONS2jeTNMECWkIWG1zJKHHdESHpreGZvanYvWDl2azF1UkpLVklTV1lJND1aHyId6UdrZy82TXJiTS9PVU5YbXMyRzVNaGhjZk5Edz1lPWyFEcI+AmAFEq8BCB4SqgEKHG5laVZCanZpYU9UajgyM3o4STNSMWlSQUo0MD0SJDM2MzU5ZWQwLTQwOTEtNGEzYS05NzQxLTlmYjlmYzYxMWE1NRgAIAIoAjDsvoaG1zI4/fGpuswyQKSQhYbXMkocandvSzR4bkt2Y0d0WXhERlRJMG5UUWpSSytRPVohIh///+1VNXV4UW41MmE5Rnp6VFh2ak9TVHZSUzY0L2M9ZWQA52DCPgJgBRKuAQgZEqkBChx2aGV1OEZZYTlnSU1vTGRNOCtXaHk5dUZSRHM9EiRmYTkxOTkzOC0zNzE5LTRkZjgtOWMxZC1hYTQ5MjJlYTY5ZjQYACACKAIw5r6GhtcyOOPW59C+MkCekIWG1zJKHHpPQnIyUVJvaFVoM3hiQktTTWluU2duQW1ucz1aICIe//83eWI3QzNDZ0ZSZVdEYWVwZFdoZ3Y4WEpDWFk9Zf8F8JrCPgJgBRKvAQgfEqoBChx4bFJvdUpsclppdWJOTUtob1laSmVWZjdRZEk9EiQ1ODc3Y2MzOS00NzNmLTRhOTAtOGJlYy0xYWRiNzE0YmMzNDYYACACKAIw476GhtcyOPn2trzMMkCmkIWG1zJKHHB4bUVUODgxbkIzT1VWK1ZMY0s3YXlLcnc1cz1aISIf///2eVNJZmUvTmhWdFQ0cWlPV2RSOTFPVmpqaWNFPWXUxwNVwj4CYAUSrwEIHRKqAQocOVdQR1NXd2dZN09iTEswQVEzbisxWkl2S2tFPRIkZTkyOWM5NWEtMGU4MS00MjZmLWFmMjAtYTNmYmI4ODg4Zjc1GAAgAigCMOe+hobXMjjX9PbFyDJAo5CFhtcyShxka0N1Y1BxS1RHTk5ydFJNeVpPZjZsQVRNcGM9WiEiH///2lY5V2ZvV1FIQUlZQ1loaTJQQk83YWwxeEEzOD1lOBQkxcI+AmAFEq8BCBwSqgEKHDIveTcya3VGK09VRDVadFRwY0dab01jMFdrQT0SJDFiZDM2NGQxLWY2ZjMtNDcwMC05OGViLWJmYTc4ZTYxNzFjNRgAIAIoAjDkvoaG1zI4vsyn0MYyQKKQhYbXMkocNVJ0TldpY1lXL0t4VGNkUTdndEVXSFliVFhnPVohIh///7RFT0paTWxVd0lId2pPUm9CWHl0TFBZMlNYbW89ZYo4OhDCPgJgBRKvAQghEqoBChwrR2dxR2ZaSnBqNXZYRjR1QStGYkY0dFluTzQ9EiQ2NWVmNjU4Ny1mM2FhLTQzMjItOTcxMy03MjcyZDMwMTNiZGEYACACKAIw7r6GhtcyOJXWn7DWMkC5kIWG1zJKHENIaFh2em84VVZidExQa3BvZ052Sm93MlNObz1aISIf///9K0xJUGdlaklHaU8vKzFhTExzRnNHVFJYRUVnPWUlDRAhwj4CYAUwADgA",
+   "version": 1
+}
